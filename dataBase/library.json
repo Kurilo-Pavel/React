@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "firstName": "Nikita",
+      "surName": "Arnold",
+      "birthDay": "Mon Mar 03 2008",
+      "id": 1
+    },
+    {
+      "firstName": "Nikita",
+      "surName": "Barnes",
+      "birthDay": "Tue Dec 28 2004",
+      "id": 3
+    },
+    {
+      "firstName": "Carmen",
+      "surName": "Arnold",
+      "birthDay": "Fri Jul 08 2005",
+      "id": 4
+    },
+    {
+      "firstName": "Carmen",
+      "surName": "Daniels",
+      "birthDay": "Wed Nov 24 2004",
+      "id": 5
+    },
+    {
+      "firstName": "Meghan",
+      "surName": "Cramer",
+      "birthDay": "Thu Apr 10 2003",
+      "id": 6
+    },
+    {
+      "firstName": "Presley",
+      "surName": "Faber",
+      "birthDay": "Sat Dec 21 2002",
+      "id": 8
+    },
+    {
+      "firstName": "Veronika",
+      "surName": "Arnold",
+      "birthDay": "Wed Dec 21 2005",
+      "id": 9
+    },
+    {
+      "firstName": "Nikita",
+      "surName": "Arnold",
+      "birthDay": "Mon Aug 02 2004",
+      "id": 10
+    },
+    {
+      "firstName": "Hayden",
+      "surName": "Daniels",
+      "birthDay": "Mon May 16 2005",
+      "id": 14
+    },
+    {
+      "firstName": "Veronika",
+      "surName": "Petrov",
+      "birthDay": "Thu Feb 13 2003",
+      "id": 15
+    }
+  ],
+  "books": [],
+  "authors": [],
+  "bookReservations": []
+}
